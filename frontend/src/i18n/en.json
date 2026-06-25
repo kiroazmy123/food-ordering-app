@@ -1,0 +1,109 @@
+{
+  "nav": {
+    "menu": "Menu",
+    "cart": "Cart",
+    "orders": "My Orders",
+    "admin": "Admin",
+    "login": "Log In",
+    "signup": "Sign Up",
+    "logout": "Log Out",
+    "brand": "Sufra"
+  },
+  "menu": {
+    "title": "Our Menu",
+    "subtitle": "Fresh dishes, made to order",
+    "all": "All",
+    "addToCart": "Add to cart",
+    "unavailable": "Currently unavailable",
+    "egp": "EGP"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty": "Your cart is empty.",
+    "browseMenu": "Browse the menu",
+    "remove": "Remove",
+    "subtotal": "Subtotal",
+    "checkout": "Checkout",
+    "qty": "Qty"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "address": "Delivery address",
+    "addressPlaceholder": "Street, building, city...",
+    "paymentMethod": "Payment method",
+    "cod": "Cash on Delivery",
+    "online": "Pay Online",
+    "placeOrder": "Place Order",
+    "total": "Total",
+    "loginRequired": "Please log in to place an order."
+  },
+  "orders": {
+    "title": "My Orders",
+    "empty": "You haven't placed any orders yet.",
+    "order": "Order",
+    "status": "Status",
+    "total": "Total",
+    "placedOn": "Placed on",
+    "payment": "Payment",
+    "address": "Address",
+    "items": "Items"
+  },
+  "status": {
+    "placed": "Order Placed",
+    "preparing": "Preparing",
+    "out_for_delivery": "Out for Delivery",
+    "delivered": "Delivered",
+    "cancelled": "Cancelled"
+  },
+  "auth": {
+    "loginTitle": "Welcome back",
+    "signupTitle": "Create your account",
+    "name": "Full name",
+    "email": "Email",
+    "password": "Password",
+    "phone": "Phone (optional)",
+    "loginButton": "Log In",
+    "signupButton": "Sign Up",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "error": "Something went wrong. Please check your details."
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "dashboard": "Dashboard",
+    "products": "Products",
+    "orders": "Orders",
+    "addProduct": "Add Product",
+    "nameEn": "Name (English)",
+    "nameAr": "Name (Arabic)",
+    "descEn": "Description (English)",
+    "descAr": "Description (Arabic)",
+    "price": "Price",
+    "image": "Image URL",
+    "category": "Category",
+    "available": "Available",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "customer": "Customer",
+    "updateStatus": "Update Status",
+    "confirmDelete": "Delete this product?",
+    "totalRevenue": "Total Revenue",
+    "totalOrders": "Total Orders",
+    "avgOrderValue": "Average Order Value",
+    "revenueOverTime": "Revenue Over Time",
+    "ordersByStatus": "Orders by Status",
+    "topProducts": "Top Selling Products",
+    "revenueByPayment": "Revenue by Payment Method",
+    "noData": "Not enough data yet.",
+    "quantitySold": "Quantity sold",
+    "ordersUnit": "orders"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong.",
+    "save": "Save",
+    "cancel": "Cancel"
+  }
+}

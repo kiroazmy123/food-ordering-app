@@ -1,0 +1,109 @@
+{
+  "nav": {
+    "menu": "القائمة",
+    "cart": "السلة",
+    "orders": "طلباتي",
+    "admin": "لوحة التحكم",
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "logout": "تسجيل الخروج",
+    "brand": "سفرة"
+  },
+  "menu": {
+    "title": "قائمة الطعام",
+    "subtitle": "أطباق طازجة تحضّر عند الطلب",
+    "all": "الكل",
+    "addToCart": "أضف إلى السلة",
+    "unavailable": "غير متاح حالياً",
+    "egp": "جنيه"
+  },
+  "cart": {
+    "title": "سلة المشتريات",
+    "empty": "سلتك فاضية.",
+    "browseMenu": "تصفح القائمة",
+    "remove": "حذف",
+    "subtotal": "الإجمالي",
+    "checkout": "إتمام الطلب",
+    "qty": "الكمية"
+  },
+  "checkout": {
+    "title": "إتمام الطلب",
+    "address": "عنوان التوصيل",
+    "addressPlaceholder": "الشارع، المبنى، المدينة...",
+    "paymentMethod": "طريقة الدفع",
+    "cod": "الدفع عند الاستلام",
+    "online": "دفع أونلاين",
+    "placeOrder": "تأكيد الطلب",
+    "total": "الإجمالي",
+    "loginRequired": "سجّل دخولك أولاً لإتمام الطلب."
+  },
+  "orders": {
+    "title": "طلباتي",
+    "empty": "لم تقم بأي طلبات بعد.",
+    "order": "طلب",
+    "status": "الحالة",
+    "total": "الإجمالي",
+    "placedOn": "تاريخ الطلب",
+    "payment": "الدفع",
+    "address": "العنوان",
+    "items": "العناصر"
+  },
+  "status": {
+    "placed": "تم استلام الطلب",
+    "preparing": "قيد التحضير",
+    "out_for_delivery": "في الطريق إليك",
+    "delivered": "تم التوصيل",
+    "cancelled": "ملغي"
+  },
+  "auth": {
+    "loginTitle": "أهلاً بعودتك",
+    "signupTitle": "إنشاء حساب جديد",
+    "name": "الاسم الكامل",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "phone": "رقم الهاتف (اختياري)",
+    "loginButton": "تسجيل الدخول",
+    "signupButton": "إنشاء حساب",
+    "noAccount": "ليس لديك حساب؟",
+    "haveAccount": "لديك حساب بالفعل؟",
+    "error": "حدث خطأ ما. تأكد من البيانات المدخلة."
+  },
+  "admin": {
+    "title": "لوحة التحكم",
+    "dashboard": "الإحصائيات",
+    "products": "المنتجات",
+    "orders": "الطلبات",
+    "addProduct": "إضافة منتج",
+    "nameEn": "الاسم (إنجليزي)",
+    "nameAr": "الاسم (عربي)",
+    "descEn": "الوصف (إنجليزي)",
+    "descAr": "الوصف (عربي)",
+    "price": "السعر",
+    "image": "رابط الصورة",
+    "category": "الفئة",
+    "available": "متاح",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "customer": "العميل",
+    "updateStatus": "تحديث الحالة",
+    "confirmDelete": "حذف هذا المنتج؟",
+    "totalRevenue": "إجمالي الإيرادات",
+    "totalOrders": "إجمالي الطلبات",
+    "avgOrderValue": "متوسط قيمة الطلب",
+    "revenueOverTime": "الإيرادات عبر الزمن",
+    "ordersByStatus": "الطلبات حسب الحالة",
+    "topProducts": "الأطباق الأكثر طلباً",
+    "revenueByPayment": "الإيرادات حسب طريقة الدفع",
+    "noData": "لا توجد بيانات كافية حتى الآن.",
+    "quantitySold": "الكمية المباعة",
+    "ordersUnit": "طلب"
+  },
+  "common": {
+    "loading": "جارٍ التحميل...",
+    "error": "حدث خطأ ما.",
+    "save": "حفظ",
+    "cannpmcel": "إلغاء"
+  }
+}
