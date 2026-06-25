@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 
 import Navbar from "./components/Navbar";
 import { AdminRoute, ProtectedRoute } from "./components/ProtectedRoute";
@@ -16,7 +16,7 @@ export default function App() {
   return (
     <AuthProvider>
       <CartProvider>
-        <BrowserRouter>
+        <HashRouter>
           <Navbar />
           <Routes>
             <Route path="/" element={<MenuPage />} />
@@ -48,7 +48,7 @@ export default function App() {
               }
             />
           </Routes>
-        </BrowserRouter>
+        </HashRouter>
       </CartProvider>
     </AuthProvider>
   );
