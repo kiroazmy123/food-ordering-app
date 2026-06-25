@@ -1,7 +1,15 @@
 import axios from "axios";
 
+// Vite's import.meta.env.PROD is true in a production build (npm run build),
+// false during local development (npm run dev) — so this automatically
+// points at the live backend once deployed, without needing any manual
+// switch or .env file.
+const BASE_URL = import.meta.env.PROD
+  ? "https://food-ordering-app-production-9a9a.up.railway.app/api"
+  : "http://localhost:8000/api";
+
 const api = axios.create({
-  baseURL: "http://localhost:8000/api",
+  baseURL: BASE_URL,
 });
 
 // Attach JWT to every request if present
